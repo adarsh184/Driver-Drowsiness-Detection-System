@@ -107,5 +107,6 @@ Yawning is detected using Mouth Aspect Ratio (MAR):
 - Advanced Driver Assistance Systems (ADAS)
 - Real-time fatigue monitoring
 
+Link to the live demo : https://www.linkedin.com/posts/adarsh-dwivedi-4a1241334_hey-everyone-so-this-is-a-second-part-activity-7434154217017327616-E4Fd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQKZXkBbO7UNyKNEJtnkdUCUEGaSTdvHsI
 
 ##  If you like this project, don’t forget to ⭐ the repository!
